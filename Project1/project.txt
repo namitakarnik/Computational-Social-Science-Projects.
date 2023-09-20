@@ -1,0 +1,11 @@
+git clone 
+https://github.com/namitakarnik/Computational-Social-Science-Projects..git
+ls
+cd Computational-Social-Science-Projects.
+mkdir Project1
+cd Project1
+touch project.txt
+nano project.txt
+git add *
+git commit -m "Assignment changes"
+git push
